@@ -15,9 +15,9 @@
 
 ## 🚀 About Me
 
-> **Seasoned Engineering Manager** with **15+ years** of experience leading high-impact engineering initiatives and driving delivery excellence for organizations of **150+ professionals**.
+> **Seasoned Engineering Leader** with **15+ years** of technical experience, leading high-impact engineering initiatives and driving delivery excellence for organizations of **150+ professionals**.
 
-- 🎯 **Current Role:** Engineering Manager | SDET at Vasta Educação (EdTech)
+- 🎯 **Current Role:** Engineering Leader | Digital Solutions Coordinator at Cogna (EdTech)
 - 👥 **Leadership:** Managing 8+ Quality Engineers across manual, automated, and monitoring efforts
 - 📍 **Location:** Brazil 🇧🇷 | Remote Work Specialist
 - 🌐 **Languages:** English (C1/Fluent) | Portuguese (Native)
@@ -87,7 +87,7 @@
 
 ## 💼 Professional Journey
 
-### 🎓 **Engineering Manager** | Vasta Educação
+### 🎓 **Engineering Leader** | Cogna Education
 **Mar 2023 - Present** | *EdTech Leadership*
 
 <details>
@@ -101,8 +101,8 @@
 
 </details>
 
-### 🚀 **Agile Coach / Delivery Manager** | Vasta Educação
-**Jan 2021 - Mar 2023** | *Process Optimization*
+### 🚀 **Agile Coach / Delivery Manager** | Cogna Education
+**Jan 2021 - Present** | *Process Optimization*
 
 <details>
 <summary>🔍 <strong>Click to expand key achievements</strong></summary>
@@ -114,7 +114,7 @@
 
 </details>
 
-### 📋 **Agile Coach / Scrum Master** | Vasta Educação
+### 📋 **Agile Coach / Scrum Master** | Cogna Education
 **2017 - 2021** | *Agile Transformation*
 
 <details>
@@ -127,12 +127,12 @@
 </details>
 
 ### 📋 **Javascript Developer** | UOL / Mãe Joana House / Perugluglu 
-**2011 - 2016** | *Agile Transformation*
+**2011 - 2016** | *Javascript Developer*
 
 <details>
 <summary>🔍 <strong>Click to expand key achievements</strong></summary>
 
-- **Developments of mini games, infographics, educational interactive objects:** Advanced frontend applications
+- **Developments of infographics, interactive content and educational interactive objects:** Advanced frontend applications
 - **Tech Leadership:** Leadership and career development for new developers
 
 </details>
