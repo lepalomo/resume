@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&multiline=true&width=800&height=130&lines=Engineering+Manager+%7C+JavaScript+Expert;Leading+High-Performance+Teams;Driving+Delivery+Excellence)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&multiline=true&width=800&height=130&lines=Engineering+Leader+%7C+JavaScript+Expert;Leading+High-Performance+Teams;Driving+Delivery+Excellence)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lepalomo)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lepalomo)
